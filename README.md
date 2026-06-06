@@ -20,7 +20,7 @@ equilibrium, the strategy executes trades that take positions expecting reversio
 
 data.py -> load price data
 
-hedge.py -> compute the hedge ration and spread
+hedge.py -> compute the hedge ratio and spread
 
 test_data.py -> backtesting and asset pair screening
 
